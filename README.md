@@ -1,4 +1,4 @@
-# 🗳️ BlockChainVoting – Algorand Decentralized Voting dApp
+# 🗳️ Blockchain – Transparent & Secure Blockchain - Based Voting System
 
 **Secure, transparent, and tamper-proof voting system** built on the **Algorand blockchain**.
 
